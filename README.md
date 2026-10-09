@@ -3,7 +3,7 @@
 > 마음에 드는 게임을 한곳에서 쉽고 빠르게 찾아보세요! 다양한 게임 포털과 링크를 제공하는 공간입니다.
 
 ## 🔗 사이트 바로가기
-👉 [HAX GAME HUB 공식 웹사이트][(https://github.io/HAX-GAME-HUB/))]
+👉 [HAX GAME HUB 공식 웹사이트]
 
 ---
 
@@ -18,3 +18,5 @@
 
 ---
 © 2026 HAX GAME HUB. All rights reserved.
+㈜핵스코리아 대표이사 강호현·사랑밤
+E-mail : khh6441@gmail.com
