@@ -21,6 +21,6 @@
 
 ---
 
-© 2026 HAX GAME HUB. All rights reserved.  
-(주)핵스코리아 대표이사 강호현·사랑밤  
+© HAX Korea Corporation All Rights Reserved.  
+㈜핵스코리아 대표이사 강호현·사랑밤  
 E-mail : khh6441@gmail.com
