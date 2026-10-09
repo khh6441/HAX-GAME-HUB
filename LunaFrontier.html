@@ -3,6 +3,15 @@
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#10182d">
 <title>루나 프론티어 | Luna Frontier</title>
+
+<script>
+    // index.html을 거쳐서(클릭해서) 온 게 아니라면 강제로 튕겨내는 코드
+    if (!document.referrer || !document.referrer.includes("index.html")) {
+        alert("메인 페이지를 통해서만 접속할 수 있습니다.");
+        window.location.href = "index.html"; // 메인 페이지로 강제 이동
+    }
+</script>
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap');
 :root{--ink:#f2f4ff;--muted:#aab5d1;--gold:#f6d77e;--cyan:#85e4e4;--line:#344464;--deep:#10182d;--panel:#192440;--soft:#202e50}*{box-sizing:border-box}body{margin:0;background:#0b1224;color:var(--ink);font-family:'Noto Sans KR',sans-serif}button,input,select{font:inherit}button,a{ -webkit-tap-highlight-color:transparent}.shell{min-height:100vh;background:radial-gradient(ellipse at 50% 0,#29355b 0,transparent 42%),linear-gradient(#0f172d,#0b1224)}
